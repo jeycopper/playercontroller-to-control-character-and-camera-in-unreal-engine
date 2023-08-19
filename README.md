@@ -1,0 +1,1 @@
+This project demonstrates how to move player input from player character to player controller in Unreal Engine using C++. The tutorial is available here: https://info-outline.com/how-to-use-playercontroller-to-control-character-and-camera-in-unreal-engine-c/
